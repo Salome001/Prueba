@@ -1,0 +1,14 @@
+C:\Users\Jolu2\source\repos\Examen01_TI_GUERRERO_OLIVO\Examen01_TI_GUERRERO_OLIVO\obj\Debug\net8.0\Examen01_TI_GUERRERO_OLIVO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jolu2\source\repos\Examen01_TI_GUERRERO_OLIVO\Examen01_TI_GUERRERO_OLIVO\obj\Debug\net8.0\Examen01_TI_GUERRERO_OLIVO.AssemblyInfoInputs.cache
+C:\Users\Jolu2\source\repos\Examen01_TI_GUERRERO_OLIVO\Examen01_TI_GUERRERO_OLIVO\obj\Debug\net8.0\Examen01_TI_GUERRERO_OLIVO.AssemblyInfo.cs
+C:\Users\Jolu2\source\repos\Examen01_TI_GUERRERO_OLIVO\Examen01_TI_GUERRERO_OLIVO\obj\Debug\net8.0\Examen01_TI_GUERRERO_OLIVO.csproj.CoreCompileInputs.cache
+C:\Users\Jolu2\source\repos\Examen01_TI_GUERRERO_OLIVO\Examen01_TI_GUERRERO_OLIVO\bin\Debug\net8.0\Examen01_TI_GUERRERO_OLIVO.exe
+C:\Users\Jolu2\source\repos\Examen01_TI_GUERRERO_OLIVO\Examen01_TI_GUERRERO_OLIVO\bin\Debug\net8.0\Examen01_TI_GUERRERO_OLIVO.deps.json
+C:\Users\Jolu2\source\repos\Examen01_TI_GUERRERO_OLIVO\Examen01_TI_GUERRERO_OLIVO\bin\Debug\net8.0\Examen01_TI_GUERRERO_OLIVO.runtimeconfig.json
+C:\Users\Jolu2\source\repos\Examen01_TI_GUERRERO_OLIVO\Examen01_TI_GUERRERO_OLIVO\bin\Debug\net8.0\Examen01_TI_GUERRERO_OLIVO.dll
+C:\Users\Jolu2\source\repos\Examen01_TI_GUERRERO_OLIVO\Examen01_TI_GUERRERO_OLIVO\bin\Debug\net8.0\Examen01_TI_GUERRERO_OLIVO.pdb
+C:\Users\Jolu2\source\repos\Examen01_TI_GUERRERO_OLIVO\Examen01_TI_GUERRERO_OLIVO\obj\Debug\net8.0\Examen01_TI_GUERRERO_OLIVO.dll
+C:\Users\Jolu2\source\repos\Examen01_TI_GUERRERO_OLIVO\Examen01_TI_GUERRERO_OLIVO\obj\Debug\net8.0\refint\Examen01_TI_GUERRERO_OLIVO.dll
+C:\Users\Jolu2\source\repos\Examen01_TI_GUERRERO_OLIVO\Examen01_TI_GUERRERO_OLIVO\obj\Debug\net8.0\Examen01_TI_GUERRERO_OLIVO.pdb
+C:\Users\Jolu2\source\repos\Examen01_TI_GUERRERO_OLIVO\Examen01_TI_GUERRERO_OLIVO\obj\Debug\net8.0\Examen01_TI_GUERRERO_OLIVO.genruntimeconfig.cache
+C:\Users\Jolu2\source\repos\Examen01_TI_GUERRERO_OLIVO\Examen01_TI_GUERRERO_OLIVO\obj\Debug\net8.0\ref\Examen01_TI_GUERRERO_OLIVO.dll
